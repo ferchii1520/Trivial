@@ -1,17 +1,17 @@
-# Trivial`532360`
-**Informacion**`D433FF`
+# Trivial
+**Informacion**
 La forma en la que yo cree este trivial es deacuerdo a mis conocimientos que ya tenia acerca de java.
 Habra algunas cosas que no se ensenaron en las sesiones pero yo ya tenia conocimientos previos de java.
 
-## Objetivo de la prectica`CC6CE6`
+## Objetivo de la prectica
 Crear una aplicación de consola que permita jugar al KeepTrivial por equipos.
 
-## Mecanica del juego`CC6CE6`
+## Mecanica del juego
 El juego se compone de equipos que lucharán por responder correctamente a las preguntas.
 Para ello habrán 5 quesitos y se mostrarán en orden aleatorio y siempre que ese equipo no
 tenga ya el quesito. Ganará el equipo que antes consiga todos los quesitos.
 
-## Pasos del juego`CC6CE6`
+## Pasos del juego
 1. La primera parte será la carga y organización de las preguntas y quesitos. Cada
 pregunta tendrá 4 opciones y sólo una será correcta. Cada pregunta solamente
 podrá pertenecer a un tema.
